@@ -1,0 +1,2 @@
+D:\Study\Tasks\C++\GPA count\Debug\GPA count.exe
+D:\Study\Tasks\C++\GPA count\Debug\GPA count.pdb
